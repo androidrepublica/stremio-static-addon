@@ -1,15 +1,15 @@
 {
-  "id": "com.stremio.nowexample",
+  "id": "com.stremio.androidrepublica",
   "version": "0.0.1",
-  "name": "Now.sh Example",
-  "description": "Example Add-on",
+  "name": "Androidrepublica",
+  "description": "Test AR Add-on",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "BigBuckBunnyCatalog",
-      "name": "Big Buck Bunny Catalog"
+      "id": "HangNakPMana",
+      "name": "Hang Nak P Mana"
     }
   ]
 }
