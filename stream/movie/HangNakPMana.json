@@ -1,12 +1,12 @@
 {
     "streams": [
         {
-            "name": "", // name is optional
+            "name": "1", // name is optional
             "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4"
         },
         // add more streams:
         {
-            "name": "",
+            "name": "2",
             "url": "https://user-images.githubusercontent.com/29597/129042321-56985f5a-264e-4f3a-a8b7-9371d75c690f.mp4"
         }
     ]
