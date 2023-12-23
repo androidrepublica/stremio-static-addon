@@ -1,8 +1,18 @@
 {
-  "streams": [
-    {
-      "availability": 1,
-      "url": "https://streamtape.com/v/BJkD2agv67IQd8"
-    }
-  ]
+    "streams": [
+        {
+            "name": "Streamtape", // name is optional
+            "url": "https://streamtape.com/v/BJkD2agv67IQd8"
+        },
+        // add more streams:
+        {
+            "name": "UserCloud",
+            "url": "https://userscloud.com/yyd7cahh4trk"
+        },
+        // add more streams:
+        {
+            "name": "Doodla",
+            "url": "https://dood.to/e/pai3rrkzkc3v"
+        }
+    ]
 }
