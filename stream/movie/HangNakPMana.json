@@ -1,18 +1,13 @@
 {
     "streams": [
         {
-            "name": "Streamtape", // name is optional
-            "url": "https://streamtape.com/v/BJkD2agv67IQd8"
+            "name": "", // name is optional
+            "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4"
         },
         // add more streams:
         {
-            "name": "UserCloud",
-            "url": "https://userscloud.com/yyd7cahh4trk"
-        },
-        // add more streams:
-        {
-            "name": "Doodla",
-            "url": "https://dood.to/e/pai3rrkzkc3v"
+            "name": "",
+            "url": "https://user-images.githubusercontent.com/29597/129042321-56985f5a-264e-4f3a-a8b7-9371d75c690f.mp4"
         }
     ]
 }
